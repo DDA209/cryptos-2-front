@@ -1,0 +1,2 @@
+- est-ce qu'il y a eu un post update ou delete en BDD depuis le dernier Get
+- date du dernier get. Si > 5 minutes ou modif en BDD depuis le dernier, on peut en refaire un
